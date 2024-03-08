@@ -2,7 +2,7 @@ print("Git is awesome!")
 
 number_of_question = 4
 right_answers = 0
-
+# new code
 
 # Quiz starts - 4 Question quizes
 while True:
